@@ -1,6 +1,4 @@
 # RTSTechnical
-Untimed technical interview for RTS Labs
-
 This repository contains the solutions to the 3 problems contained in the untimed technical interview for RTS Labs. 
 
   The solution for problem #1 requires the "numpy" module to be installed. When run, problem1final.py will ask the user for the desired length of the array. 
