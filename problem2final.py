@@ -4,7 +4,7 @@ def set_string():
     while string == None:
         try:
             string = input("Please input a string of characters: ")
-            if len(string) <= 0:
+            if len(string) <= 0 or str.isspace(string):
                 print("String must contain at least 1 character.")
                 string = None
             else:
