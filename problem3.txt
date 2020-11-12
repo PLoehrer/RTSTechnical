@@ -5,5 +5,5 @@ I would definitely change template error messages in C++. I used C++ for many
 classes and projects in school, and template error messages were always
 exceedingly difficult to decipher and handle. I distinctly remember spending most
 of my debugging time in a class called Applied Software Design trying to fix
-templating errors. Granted, this was one of my earlier experiences using
-templates, but they did not get much easier to debug as time went on.
+templating errors. That is not the only time I have had to deal with the problem
+of template errors, just one specific example.
