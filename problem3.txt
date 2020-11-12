@@ -1,0 +1,9 @@
+#3  If you could change 1 thing about your favorite framework/language/platform
+(pick one), what would it be?
+
+I would definitely change template error messages in C++. I used C++ for many
+classes and projects in school, and template error messages were always
+exceedingly difficult to decipher and handle. I distinctly remember spending most
+of my debugging time in a class called Applied Software Design trying to fix
+templating errors. Granted, this was one of my earlier experiences using
+templates, but they did not get much easier to debug as time went on.
